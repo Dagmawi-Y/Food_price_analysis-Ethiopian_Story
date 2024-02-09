@@ -1,6 +1,11 @@
 # Food Security Analysis in Ethiopia using WFP Data and Power BI
 
+![Image: A global map visualizing food price trends with different color intensities representing price levels.](https://as2.ftcdn.net/v2/jpg/05/73/83/03/1000_F_573830325_ATVFFmqEIWQ8ltIqxnTWULsh8R6VmzRf.jpg)
+
+---
+
 This project explores food security challenges in Ethiopia using data from the WFP Food Prices Database and visualizations developed in Power BI.
+
 
 ## Project Goals:
 - Understand inflation trends in staple food prices across different regions in Ethiopia.
