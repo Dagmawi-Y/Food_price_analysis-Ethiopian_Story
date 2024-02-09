@@ -8,7 +8,7 @@ This project explores food security challenges in Ethiopia using data from the W
 - Develop predictive models for forecasting food prices in Ethiopia.
 
 ## Data and Tools:
-- **Data:** WFP Food Prices Database (Ethiopian subset)
+- **Data:** WFP Food Prices Database ~ 1.5M Records (Ethiopian subset)
 - **Database:** PostgreSQL
 - **Analysis:** Python (Jupyter Notebooks)
 - **Visualization:** Power BI
