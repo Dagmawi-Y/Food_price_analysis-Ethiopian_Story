@@ -27,17 +27,18 @@ This project explores food security challenges in Ethiopia using data from the W
 - **powerbi projects:** Additional notes and documentation related to the project.
 
 ## How to Run:
-1. Install required libraries (see requirements.txt).
-2. Set up a PostgreSQL database and import the Ethiopian data subset (instructions in database_setup.sql).
-3. Run Jupyter notebooks for data processing and analysis.
-4. Open Power BI report files and connect to the database.
-5. Explore visualizations and interact with the data.
+1. Install required libraries in ***group_project.ipynb***.
+2. Import the dataset to the notebook. (see the steps in the notebook).
+3. Set up a PostgreSQL database, open the database server for connection.
+4. Run Jupyter notebook cells for data processing and analysis.
+5. Open Power BI report files and connect to the database.
+6. Explore visualizations and interact with the data.
 
 ## Contributing:
-We welcome contributions to this project! Please follow the contributing guidelines in CONTRIBUTING.md.
+We welcome contributions to this project!
 
 ## License:
-This project is licensed under the MIT License (see LICENSE file).
+This project is licensed under the MIT License.
 
 ## Next Steps:
 - Refine existing analysis and visualizations based on further insights.
@@ -45,4 +46,4 @@ This project is licensed under the MIT License (see LICENSE file).
 - Explore further research questions and applications of the data for food security interventions in Ethiopia.
 
 ## Project Maintainers:
-Dagmawi Yohannes, H/Mariam Kibru, Ephrem Belaineh, Fasika Worku, Bezawit Solomon
+Dagmawi Yohannes, H/Mariam Kibru, Ephrem Belaineh, Bezawit Solomon & Fasika Worku.
