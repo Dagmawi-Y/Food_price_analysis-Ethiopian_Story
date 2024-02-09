@@ -34,7 +34,7 @@ This project explores food security challenges in Ethiopia using data from the W
 ## How to Run:
 1. Install required libraries in ***group_project.ipynb***.
 2. Extract ***wfp_food_prices_database.rar*** and import the dataset to the notebook. (see the steps in the notebook).
-3. Set up a PostgreSQL database, open the database server for connection.
+3. Set up a PostgreSQL database ***wfp***, open the database server for connection.
 4. Run Jupyter notebook cells for data processing and analysis.
 5. Open Power BI report files and connect to the database.
 6. Explore visualizations and interact with the data.
