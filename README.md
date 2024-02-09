@@ -17,14 +17,14 @@ This project explores food security challenges in Ethiopia using data from the W
 - Analyzed inflation trends for key commodities in different regions of Ethiopia.
 - Visualized regional price disparities to identify areas with higher food insecurity risk.
 - Assessed market integration between Ethiopian markets for specific commodities.
-- Explored the feasibility of using cyclic graphs to represent market relationships (ongoing investigation).
+- Developed predictive models for food price forecasting in Ethiopia.
 
 ## Project Structure:
-- **data:** Raw and processed data files specific to Ethiopia.
-- **notebooks:** Jupyter notebooks for data cleaning, analysis, and visualization preparation.
-- **scripts:** Python scripts for database interaction and tasks.
-- **powerbi_reports:** Power BI report files (.pbix) with visualizations focused on Ethiopia.
-- **documentation:** Additional notes and documentation related to the project.
+- **data source:** Raw and processed data file.
+- **notebook:** Jupyter notebooks for data cleaning, analysis, and visualization preparation.
+- **scripts in notebook:** Python scripts for database interaction and tasks.
+- **powerbi pdf report:** Power BI report files (.pbix) with visualizations focused on Ethiopia.
+- **powerbi projects:** Additional notes and documentation related to the project.
 
 ## How to Run:
 1. Install required libraries (see requirements.txt).
@@ -40,15 +40,9 @@ We welcome contributions to this project! Please follow the contributing guideli
 This project is licensed under the MIT License (see LICENSE file).
 
 ## Next Steps:
-- Develop predictive models for food price forecasting in Ethiopia.
 - Refine existing analysis and visualizations based on further insights.
 - Document the process, findings, and limitations of the analysis in a comprehensive report.
 - Explore further research questions and applications of the data for food security interventions in Ethiopia.
 
 ## Project Maintainers:
-[Your Name/Team/Organization]
-
-**Note:**
-- Remember to replace [Your Name/Team/Organization] with your actual information.
-- You can add additional sections like "Authors", "Acknowledgements", or "Project Status" depending on your needs.
-- This is a template, so feel free to adjust it further to best represent your project.
+Dagmawi Yohannes, H/Mariam Kibru, Ephrem Belaineh, Fasika Worku, Bezawit Solomon
